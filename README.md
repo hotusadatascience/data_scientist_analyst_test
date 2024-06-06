@@ -34,7 +34,3 @@ Debes crear un report reproducible (en un notebook en Python o R) siguiendo esto
 4. **Modelo predictivo**: Al margen de las campañas de marketing, ¿qué otro tipo de valor le darías a estos datos? ¿Qué modelo predictivo podrías crear alrededor de los clientes? ¿Sabrías cómo hacerlo?
 
 Se valorarán las explicaciones y insights que se detecten como también que las gráficas y los resultados sean fáciles de leer. No se trata de escupir los datos, sino contar una historia con ellos. Este report lo debería poder leer tanto un perfil técnico como un perfil de negocio. 
-
-## Entrega
-
-Entrega tus resultados en notebook o en un link al repo en GitHub a: recursos.humanos@grupohotusa.com
