@@ -5,9 +5,9 @@ Tarea para candidatos que aplican a un puesto de Data Analyst/Scientist en Grupo
 ## Descripción de la tarea
 
 El dataset (**clients_analysis.csv**) con el que trabajar contiene las siguientes columnas:
-- *id_secuencial*: Id de Cliente
-- *Idioma*: Idioma con el que dirigirse al cliente
-- *genero*: Género del cliente
+- *id_secuencial*: Id de Cliente (valor entero).
+- *Idioma*: Idioma con el que dirigirse al cliente.
+- *genero*: Género del cliente.
 - *tratamiento*: Forma de dirigirse al cliente.
 - *alta_cliente*: Fecha de alta del cliente.
 - *comunicaciones_comerciales*: Si el cliente permite comunicaciones comerciales o no.
